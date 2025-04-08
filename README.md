@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Manroop!
 
-<!--
-**mk-505/mk-505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a  AI developer, and aspiring innovator. I care about solving complex problems - and turning ideas into reality.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
+🤖 🛡️ **Data Engineer @ UofT** — working on cybersecurity infrastructure to help protect data.  
+🧠 **AI Projects** — experimenting with multimodal models and reinforcement learning in robotics.  
+🌐 **AfterDark Creative** — co-founding a design agency building stunning websites for standout brands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, C/C++, JavaScript, MATLAB, SQL  
+**Frameworks:** ROS2, Flask, Node.js, React, Tailwind CSS  
+**ML/AI:** PyTorch, TensorFlow, XGBoost, scikit-learn  
+**Tools:** Git, RViz, Gazebo, Figma, VS Code  
+
+## 📫 Let's Connect
+🌐 **Portfolio:** [manroopkalsi.notion.site](https://manroopkalsi.notion.site/msf)  
+💼 **LinkedIn:** [linkedin.com/in/manroopkalsi](https://www.linkedin.com/in/manroop-kalsi/)  
+📧 **Email:** manroop.kalsi@mail.utoronto.ca  
+
+---
+
+> "staying curious :)"
