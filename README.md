@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a  AI developer, and aspiring innovator. I care about solving complex problems - and turning ideas into reality.
 
 ## 🔭 What I'm Working On
-🤖 🛡️ **Data Engineer @ UofT** — working on cybersecurity infrastructure to help protect data.  
+🤖 🛡️ **Data Engineer @ TD** — working on cybersecurity infrastructure to help protect data.  
 🧠 **AI Projects** — experimenting with multimodal models and reinforcement learning.  
 🌐 **AfterDark Creative** — co-founding a design agency building stunning websites for standout brands.
 
