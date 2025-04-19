@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a  AI developer, and aspiring innovator. I care about 
 **Tools:** Git, RViz, Gazebo, Figma, VS Code  
 
 ## 📫 Let's Connect
-🌐 **Portfolio:** [manroopkalsi.notion.site](https://manroopkalsi.notion.site/msf)  
+🌐 **Portfolio:** [manroopkalsi.vercel.app](https://manroopkalsi.vercel.app/)  
 💼 **LinkedIn:** [linkedin.com/in/manroopkalsi](https://www.linkedin.com/in/manroop-kalsi/)  
 📧 **Email:** manroop.kalsi@mail.utoronto.ca  
 
