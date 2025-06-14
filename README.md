@@ -3,7 +3,10 @@
 Welcome to my GitHub! I'm a  AI developer, and aspiring innovator. I care about solving complex problems - and turning ideas into reality.
 
 ## 🔭 What I'm Working On
-..
+💬 **Deep Learning Researcher @ Cornell** — building block diffusion models for language generation.  
+🤖 **Data Engineer @ TD** — working on cybersecurity infrastructure to help protect data.  
+🧠 **AI Projects** — experimenting with multimodal models and agentic AI
+🌐 **AfterDark Creative** — co-founding a design agency building stunning websites for standout brands.
 
 ## 🛠️ Tech Stack
 **Languages:** Python, C/C++, JavaScript, MATLAB, SQL  
